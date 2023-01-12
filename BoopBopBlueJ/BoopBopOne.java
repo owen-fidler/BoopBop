@@ -14,5 +14,7 @@ public class BoopBopOne{
         
         
         System.out.println("WOOOOOOOOOOOOOO");
+        
+        System.out.println("I HATE PICKLES RAHHH");
     }
 }
