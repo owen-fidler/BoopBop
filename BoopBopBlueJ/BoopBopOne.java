@@ -6,5 +6,13 @@ public class BoopBopOne{
         
         System.out.print("this is my edit to the cool program");
         
+        int number = 0;
+        while (number<50){
+            System.out.println(number);
+            number++;
+        }
+        
+        
+        System.out.println("WOOOOOOOOOOOOOO");
     }
 }

@@ -3,8 +3,13 @@ objectbench.height=76
 objectbench.width=658
 package.editor.height=547
 package.editor.width=560
+<<<<<<< HEAD
 package.editor.x=98
 package.editor.y=666
+=======
+package.editor.x=142
+package.editor.y=338
+>>>>>>> 5f558861d21e6b45362aeb25abdf6edb54e0f458
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
@@ -12,8 +17,13 @@ package.showUses=true
 project.charset=UTF-8
 target1.editor.height=700
 target1.editor.width=900
+<<<<<<< HEAD
 target1.editor.x=170
 target1.editor.y=658
+=======
+target1.editor.x=717
+target1.editor.y=264
+>>>>>>> 5f558861d21e6b45362aeb25abdf6edb54e0f458
 target1.height=50
 target1.name=BoopBopOne
 target1.naviview.expanded=true
