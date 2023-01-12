@@ -4,7 +4,7 @@ public class BoopBopOne{
         System.out.print("this is my cool programm...!!!");
         
         
-        System.out.print("this is my edit to the cool programm");
+        System.out.print("this is my edit to the cool program");
         
         int number = 0;
         while (number<50){
@@ -12,5 +12,7 @@ public class BoopBopOne{
             number++;
         }
         
+        
+        System.out.println("WOOOOOOOOOOOOOO");
     }
 }
