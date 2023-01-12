@@ -4,7 +4,7 @@ public class BoopBopOne{
         System.out.print("this is my cool programm...!!!");
         
         
-        System.out.print("this is my edit to the cool programm");
+        System.out.print("this is my edit to the cool program");
         
     }
 }
